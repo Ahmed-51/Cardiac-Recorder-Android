@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardiacRecorder</string>
+    <string name="date">1. Date of Measurement :</string>
+    <string name="time">2. Time of measurement :</string>
+    <string name="systolic">3. Systolic Pressure :</string>
+    <string name="diastolic">4. Diastolic Pressure :</string>
+    <string name="heart_rate">5. Heart Rate :</string>
+    <string name="comment">6. Comment :</string>
+</resources>

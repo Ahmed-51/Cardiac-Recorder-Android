@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.cardiacrecord","c":"Records","l":"addRecord(ModelClass)","url":"addRecord(com.example.cardiacrecord.ModelClass)"},{"p":"com.example.cardiacrecord","c":"Records","l":"mcl"},{"p":"com.example.cardiacrecord","c":"Records","l":"Records()","url":"%3Cinit%3E()"}]
